@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="DriverProgram.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="world_cities.csv" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

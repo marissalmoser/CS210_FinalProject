@@ -5,6 +5,16 @@
     {
       "AbsoluteMoniker": "D:0:0:{52E25DCE-D2FE-4F3B-B258-7E3ABA66B56D}|Milestone1.vcxproj|C:\\Dump\\C\u002B\u002BWork\\CS210_Final_Project\\CS210_FinalProject\\ProjectFiles\\Milestone1\\DriverProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{52E25DCE-D2FE-4F3B-B258-7E3ABA66B56D}|Milestone1.vcxproj|solutionrelative:DriverProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E25DCE-D2FE-4F3B-B258-7E3ABA66B56D}|Milestone1.vcxproj|C:\\Dump\\C\u002B\u002BWork\\CS210_Final_Project\\CS210_FinalProject\\ProjectFiles\\Milestone1\\world_cities.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52E25DCE-D2FE-4F3B-B258-7E3ABA66B56D}|Milestone1.vcxproj|solutionrelative:world_cities.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613EEE03-E0FB-F863-48F8-7C784359EE79}|..\\..\\..\\..\\..\\..\\Users\\maris\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_b598a0a2\\SingleFileISense\\_sfi_0631e94a-55bf-4092-81cb-8ae51fd89a8e_.vcxproj|C:\\DUMP\\C\u002B\u002BWORK\\CS210_MIDTERM_PROJECT\\CS210_MIDTERM_PROJECT_FILES\\MILESTONE2\\SCHOOL.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dump\\C\u002B\u002BWork\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\MainDriver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +24,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "world_cities.csv",
+              "DocumentMoniker": "C:\\Dump\\C\u002B\u002BWork\\CS210_Final_Project\\CS210_FinalProject\\ProjectFiles\\Milestone1\\world_cities.csv",
+              "RelativeDocumentMoniker": "world_cities.csv",
+              "ToolTip": "C:\\Dump\\C\u002B\u002BWork\\CS210_Final_Project\\CS210_FinalProject\\ProjectFiles\\Milestone1\\world_cities.csv",
+              "RelativeToolTip": "world_cities.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-20T22:44:15.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "School.cpp",
+              "DocumentMoniker": "C:\\Dump\\C\u002B\u002BWork\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\School.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\School.cpp",
+              "ToolTip": "C:\\Dump\\C\u002B\u002BWork\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\School.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\School.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T22:16:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainDriver.cpp",
+              "DocumentMoniker": "C:\\Dump\\C\u002B\u002BWork\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\MainDriver.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\MainDriver.cpp",
+              "ToolTip": "C:\\Dump\\C\u002B\u002BWork\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\MainDriver.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\CS210_Midterm_Project\\CS210_Midterm_Project_Files\\Milestone2\\MainDriver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T22:13:22.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +77,7 @@
               "RelativeDocumentMoniker": "DriverProgram.cpp",
               "ToolTip": "C:\\Dump\\C\u002B\u002BWork\\CS210_Final_Project\\CS210_FinalProject\\ProjectFiles\\Milestone1\\DriverProgram.cpp",
               "RelativeToolTip": "DriverProgram.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-20T22:07:36.884Z",
               "EditorCaption": ""
