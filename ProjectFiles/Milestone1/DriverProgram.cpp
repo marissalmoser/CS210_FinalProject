@@ -6,6 +6,7 @@
 using namespace std;
 
 void SearchInCSV(string filename, string cc, string cn, bool hasHeader = true);
+void promptUser();
 
 struct City
 {
@@ -16,8 +17,8 @@ struct City
 
 int main()
 {
-	std::cout << "hello!";
-    SearchInCSV("world_cities.csv", "ad", "encamp");
+    std::cout << "hello!" << endl;
+    promptUser();
 }
 
 void SearchInCSV(string filename, string cc, string cn, bool hasHeader)
@@ -60,8 +61,32 @@ void SearchInCSV(string filename, string cc, string cn, bool hasHeader)
         //at this point, the country code and city name should match
         string pop;
         getline(ss, pop, ',');
-        cout << "City found: " << cc << ", " << cn << ", " << pop << endl;
+        cout << "City found with population of " << pop << endl;
+        break;
     }
 
     file.close();
+    promptUser();
+}
+
+void promptUser()
+{
+    string cc;
+    string cn;
+
+    cout << "--------------------------------------\n"
+        "Input a Country Code: \n    ";
+
+    cin >> cc;
+
+    cout <<
+        "Input a City Name: \n    ";
+
+    cin >> cn;
+
+    cout << "Searching...\n";
+
+    SearchInCSV("world_cities.csv", cc, cn);
+
+    cout << "--------------------------------------\n" << endl;
 }
